@@ -1,0 +1,5 @@
+---
+- name: my_own_playbook
+  hosts: localhost
+  roles:
+  - my_own_role
